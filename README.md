@@ -7,3 +7,6 @@ Leena Baroud
 ## Features
 - Main screen with navigation
 - About, Contact and Blog screens
+
+## Version
+Current version: 1.0.1
